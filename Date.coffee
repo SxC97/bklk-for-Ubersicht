@@ -1,3 +1,6 @@
+# Originally created by Spencer Kaiser
+# Modified by Shrey Choudhary
+
 command: "date +%A,%B,%e,%Y"
 
 refreshFrequency: 50000
