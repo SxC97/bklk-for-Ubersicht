@@ -1,12 +1,10 @@
-#
-# Fuzzy Time  widget for Übersicht
-# Geoff Oliver
-# github.com/plan8studios/fuzzytime
-#
+# Fuzzy Time  widget for Übersicht was originally created by Geoff Oliver (github.com/plan8studios/fuzzytime)
+# Modified by Shrey Choudhary
 
 #
 # Adjust the styles as you like
 #
+
 style =
   # Define the maximum width of the widget.
   width: "100%"
