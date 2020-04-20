@@ -12,5 +12,11 @@ Drag and drop into the Ubersicht widgets folder
 # Customization
 The time and date widgets should be centered on any display but the binary clock might need to be manually adjusted using the variables at the top of the document.I have included a Laptop version that should already be centered for 13" screens, a Landscape version that should be centered for 27" 4k monitors, and a Portrait version that should be centered for 27" 4k monitors in portrait mode.
 
+# FAQ
+
+###### Q: What's that widget in your menubar?
+
+###### A: That's my other project, [Yabai-Spaces plugin for Bitbar](https://github.com/SxC97/Yabai-Spaces). Check it out!
+
 # Credit
 Feel free to modify and redistribute as you see fit but please give credit to everyone that has contributed to this project in the form of a link to our Githubs!
