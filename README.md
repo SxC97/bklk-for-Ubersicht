@@ -1,4 +1,4 @@
-[Screenshot](/Screenshot.png)
+![Screenshot](/Screenshot.png)
 
 # Description
 This is a cobbling together of Joel Eisner's [Binary Clock Widget](https://github.com/joeleisner/ubersicht-binary-clock), Geoff Oliver's [Fuzzy Time Widget](https://github.com/plan8studios/fuzzytime), and Spencer Kaiser's [Simple Date Widget](https://github.com/felixhageloh/uebersicht-widgets/blob/master/SimpleDate/index.coffee) to recreate Ruunyox's [bklk](https://github.com/Ruunyox/bklk) terminal application. If you like this widget, please checkout everyone listed above, as this project couldn't have been done without their hard work!
