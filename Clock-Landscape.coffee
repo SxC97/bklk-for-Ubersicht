@@ -1,4 +1,5 @@
 # Created by Joel Eisner 2/08/16
+# Modified by Shrey Choudhary
 
 # 12 Hour Format: "date +%-I,%M,%-S"
 # 24 Hour Format: "date +%-H,%M,%-S"
