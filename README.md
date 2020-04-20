@@ -18,7 +18,7 @@ The time and date widgets should be centered on any display but the binary clock
 
 ###### Q: What color is your wallpaper?
 
-###### A: The hexcode of the color is #202020 and is a good match for bklk. This widget hasn't been tested with other colors. You can set a custom color in System Preferences/Desktop & Screen Saver/Colors/Custom Color...
+###### A: The hexcode of the color is #202020 and is a good match for bklk. You can set a custom color in System Preferences/Desktop & Screen Saver/Colors/Custom Color...
 
 ###### Q: What's that widget in your menubar?
 
